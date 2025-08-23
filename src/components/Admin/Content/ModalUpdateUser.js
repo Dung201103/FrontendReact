@@ -102,8 +102,8 @@ const ModalUpdateUser = (props) => {
                         <div className="col-md-4">
                             <label className="form-label">{t('admin.ModalUpdateUser.role')}</label>
                             <select className="form-select" onChange={(event) => setRole(event.target.value)} value={Role}>
-                                <option selected value="USER">User</option>
-                                <option selected value="ADMIN">Admin</option>
+                                <option selected value="USER">USER</option>
+                                <option selected value="ADMIN">ADMIN</option>
                             </select>
                         </div>
                         <div className='col-md-12'>
