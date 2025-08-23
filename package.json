@@ -63,7 +63,18 @@
     ]
   },
   "engines": {
-  "node": "18.x",
-  "npm": "9.x"
+    "node": "18.x",
+    "npm": "9.x"
+  },
+   "resolutions": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "overrides": {
+    "react-awesome-lightbox": {
+      "react": "^18.3.1",
+      "react-dom": "^18.3.1"
+    }
   }
+
 }
