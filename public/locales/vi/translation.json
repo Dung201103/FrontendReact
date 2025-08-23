@@ -1,0 +1,246 @@
+{
+    "homepage": {
+        "title1": "Có một cách tốt hơn để đặt câu hỏi",
+        "title2": "Bạn không muốn tạo một biểu mẫu nhàm chán.\nVà người tham gia cũng sẽ không muốn trả lời nó.\nHãy tạo một biểu mẫu tương tác - và làm mọi người đều vui vẻ.",
+        "title3": {
+            "login": "Bắt đầu ngay. Miễn phí",
+            "doing": "Làm bài trắc nghiệm ngay"
+        }
+    },
+    "header": {
+        "home": "Trang chủ",
+        "user": "Người dùng",
+        "admin": "Quản trị viên",
+        "login": "Đăng nhập",
+        "signup": "Đăng ký",
+        "settings": "Cài đặt",
+        "profile": "Hồ sơ",
+        "logout": "Đăng xuất"
+    },
+    "quiz": {
+        "assign-quiz": {
+            "select-quiz": "Chọn bài trắc nghiệm",
+            "select-user": "Chọn người dùng",
+            "assign": "Giao"
+        },
+        "ManageQuiz": {
+            "title": "Quản lý bài trắc nghiệm",
+            "add-q": "Thêm bài trắc nghiệm mới",
+            "name": "Tên bài",
+            "d": "Mô tả",
+            "quiztype": "Loại bài trắc nghiệm...",
+            "upl_img": "Tải ảnh lên",
+            "save": "Lưu",
+            "upd_qa": "Cập nhật Câu hỏi & Câu trả lời",
+            "assign": "Giao cho người dùng"
+        },
+        "ModalDeleteQuiz": {
+            "title": "Xóa bài trắc nghiệm",
+            "des": "Mô tả",
+            "name": "Tên bài",
+            "difficult": "Độ khó",
+            "diff": {
+                "es": "DỄ",
+                "med": "TRUNG BÌNH",
+                "hard": "KHÓ"
+            },
+            "upl_img": "Tải ảnh",
+            "pre_img": "Xem trước ảnh",
+            "button": {
+                "close": "Đóng",
+                "delete": "Xóa"
+            }
+        },
+        "ModalUpdateQuiz": {
+            "title": "Cập nhật bài trắc nghiệm",
+            "des": "Mô tả",
+            "name": "Tên bài",
+            "difficult": "Độ khó",
+            "diff": {
+                "es": "DỄ",
+                "med": "TRUNG BÌNH",
+                "hard": "KHÓ"
+            },
+            "upl_img": "Tải ảnh",
+            "pre_img": "Xem trước ảnh",
+            "button": {
+                "close": "Đóng",
+                "save_chang": "Lưu thay đổi"
+            }
+        },
+        "QuizQA": {
+            "selectquiz": "Chọn bài trắc nghiệm",
+            "q": "Câu hỏi",
+            "q_des": "Mô tả",
+            "ans": "Câu trả lời",
+            "btn": {
+                "save_qs": "Lưu câu hỏi"
+            }
+        },
+        "TableQuiz": {
+            "list_quiz": "Danh sách bài trắc nghiệm",
+            "id": "Mã",
+            "name": "Tên",
+            "des": "Mô tả",
+            "type": "Loại",
+            "action": "Thao tác",
+            "btn": {
+                "edit": "Chỉnh sửa",
+                "delete": "Xóa"
+            }
+        }
+    },
+    "login": {
+        "header": {
+            "text": "Chưa có tài khoản?",
+            "signup": "Đăng ký ngay"
+        },
+        "hello": "Xin chào, bạn là ai?",
+        "pass": "Mật khẩu",
+        "btn": {
+            "login": "Đăng nhập",
+            "home": "Về trang chủ"
+        }
+    },
+    "register": {
+        "header": {
+            "text": "Đã có tài khoản?",
+            "login": "Đăng nhập ngay"
+        },
+        "start": "Bắt đầu hành trình của bạn?",
+        "pass": "Mật khẩu",
+        "name": "Tên đăng nhập",
+        "btn": {
+            "signup": "Đăng ký",
+            "home": "Về trang chủ"
+        }
+    },
+    "admin": {
+        "header": {
+            "prof": "Hồ sơ",
+            "settings": "Cài đặt",
+            "logout": "Đăng xuất"
+        },
+        "SideBar": {
+            "dasboard": "Bảng điều khiển",
+            "mn_us": "Quản lý người dùng",
+            "mn_qz": "Quản lý bài trắc nghiệm",
+            "mn_qs": "Quản lý câu hỏi"
+        },
+        "DashBoard": {
+            "title": "Bảng điều khiển",
+            "content": {
+                "sum_u": "Tổng số người dùng",
+                "sum_qz": "Tổng số bài trắc nghiệm",
+                "sum_qs": "Tổng số câu hỏi",
+                "sum_as": "Tổng số câu trả lời"
+            }
+        },
+        "manage-user": {
+            "title": "Quản lý người dùng",
+            "add": "Thêm người dùng mới"
+        },
+        "ModalCreateUser": {
+            "add_us": "Thêm người dùng mới",
+            "pass": "Mật khẩu",
+            "name": "Tên đăng nhập",
+            "role": "Vai trò",
+            "upl_img": "Tải ảnh lên",
+            "pre_img": "Xem trước ảnh",
+            "btn": {
+                "cl": "Đóng",
+                "save": "Lưu thay đổi"
+            }
+        },
+        "ModalDeleteUser": {
+            "delete": "Xóa người dùng",
+            "pass": "Mật khẩu",
+            "name": "Tên đăng nhập",
+            "role": "Vai trò",
+            "upl_img": "Tải ảnh lên",
+            "pre_img": "Xem trước ảnh",
+            "btn": {
+                "cl": "Đóng",
+                "delete": "Xóa"
+            }
+        },
+        "ModalUpdateUser": {
+            "upd_us": "Cập nhật người dùng",
+            "pass": "Mật khẩu",
+            "name": "Tên đăng nhập",
+            "role": "Vai trò",
+            "upl_img": "Tải ảnh lên",
+            "pre_img": "Xem trước ảnh",
+            "btn": {
+                "cl": "Đóng",
+                "save": "Lưu thay đổi"
+            }
+        },
+        "TableUserPaginate": {
+            "no": "STT",
+            "name": "Tên đăng nhập",
+            "role": "Vai trò",
+            "action": "Thao tác",
+            "btn": {
+                "upd": "Cập nhật",
+                "delete": "Xóa"
+            },
+            "notfound": "Không tìm thấy dữ liệu"
+        }
+    },
+    "user": {
+        "DetailQuiz": {
+            "header": {
+                "home": "Trang chủ",
+                "user": "Người dùng",
+                "quiz": "Bài trắc nghiệm"
+            },
+            "title": "Bài trắc nghiệm",
+            "footer": {
+                "pre": "Trước",
+                "nxt": "Tiếp",
+                "fn": "Hoàn thành"
+            }
+        },
+        "ListQuiz": {
+            "quiz": "Bài trắc nghiệm",
+            "start": "Bắt đầu ngay",
+            "text": "Bạn chưa có bài trắc nghiệm nào"
+        },
+        "ModalResult": {
+            "title": "Kết quả của bạn",
+            "sum_qs": "Tổng số câu hỏi",
+            "sum_as": "Tổng số câu đúng",
+            "result": "Xem kết quả",
+            "cl": "Đóng"
+        }
+    },
+    "profile": {
+        "title": {
+            "main": "Hồ sơ",
+            "infor": "Thông tin chính",
+            "password": "Mật khẩu",
+            "history": "Lịch sử"
+        },
+        "Information": {
+            "username": "Tên người dùng",
+            "role": "Vai trò",
+            "upl_img": "Tải lên ảnh",
+            "pre_img": "Xem trước ảnh",
+            "update_btn": "Cập nhật"
+        },
+        "ChangePassWord": {
+            "current_pass": "Mật khẩu hiện tại",
+            "new_pass": "Mật khẩu mới",
+            "cf_pass": "Xác nhận mật khẩu",
+            "update_btn": "Cập nhật"
+        },
+        "History": {
+            "quiz_name": "Tên bài trắc nghiệm",
+            "sum_qs": "Tổng số câu hỏi",
+            "sum_correct": "Tổng số câu đúng",
+            "date": "Ngày",
+            "error": "Không tìm thấy lịch sử"
+        }
+    }
+}

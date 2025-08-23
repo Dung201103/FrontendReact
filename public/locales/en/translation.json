@@ -1,0 +1,246 @@
+{
+    "homepage": {
+        "title1": "There's a better way to ask",
+        "title2": "You dont want to make a boring form.\nAnd your audience won't answer one.\nCreate a typeform instead-and make every one happy.",
+        "title3": {
+            "login": "Get's started. It's free",
+            "doing": "Doing Quiz Now"
+        }
+    },
+    "header": {
+        "home": "Home",
+        "user": "User",
+        "admin": "Admin",
+        "login": "Login",
+        "signup": "Sign up",
+        "settings": "Settings",
+        "profile": "Profile",
+        "logout": "Log out"
+    },
+    "quiz": {
+        "assign-quiz": {
+            "select-quiz": "SelectQuiz",
+            "select-user": "SelectUser",
+            "assign": "Assign"
+        },
+        "ManageQuiz": {
+            "title": "Manage Quizzes",
+            "add-q": "Add new quiz",
+            "name": "Name",
+            "d": "Description",
+            "quiztype": "Quiz type ...",
+            "upl_img": "Upload image",
+            "save": "Save",
+            "upd_qa": "Update Q/A",
+            "assign": "Assign to Users"
+        },
+        "ModalDeleteQuiz": {
+            "title": " Delete Quiz",
+            "des": "Description",
+            "name": "Name",
+            "difficult": "Difficulty",
+            "diff": {
+                "es": "EASY",
+                "med": "MEDIUM",
+                "hard": "HARD"
+            },
+            "upl_img": "Upload FIle Image",
+            "pre_img": "Preview Image",
+            "button": {
+                "close": "Close",
+                "delete": "Delete"
+            }
+        },
+        "ModalUpdateQuiz": {
+            "title": "Update Quiz",
+            "des": "Description",
+            "name": "Name",
+            "difficult": "Difficulty",
+            "diff": {
+                "es": "EASY",
+                "med": "MEDIUM",
+                "hard": "HARD"
+            },
+            "upl_img": "Upload FIle Image",
+            "pre_img": "Preview Image",
+            "button": {
+                "close": "Close",
+                "save_chang": " Save Changes"
+            }
+        },
+        "QuizQA": {
+            "selectquiz": "SelectQuiz",
+            "q": "Questions",
+            "q_des": "'s Descriptions",
+            "ans": "Answer",
+            "btn": {
+                "save_qs": "Save Questions"
+            }
+        },
+        "TableQuiz": {
+            "list_quiz": "ListQuiz",
+            "id": "ID",
+            "name": "Name",
+            "des": "Description",
+            "type": "Type",
+            "action": "Actions",
+            "btn": {
+                "edit": "Edit",
+                "delete": "Delete"
+            }
+        }
+    },
+    "login": {
+        "header": {
+            "text": "Don't have an account yet?",
+            "signup": "Sign Up"
+        },
+        "hello": "Hello,who's this?",
+        "pass": "Password",
+        "btn": {
+            "login": "Login",
+            "home": "Go to Homepage"
+        }
+    },
+    "register": {
+        "header": {
+            "text": "Already have an account",
+            "login": "Log in"
+        },
+        "start": "Start your journey?",
+        "pass": "Password",
+        "name": "Username",
+        "btn": {
+            "signup": "Sign Up",
+            "home": "Go to Homepage"
+        }
+    },
+    "admin": {
+        "header": {
+            "prof": "Profile",
+            "settings": "Settings",
+            "logout": "Log out"
+        },
+        "SideBar": {
+            "dasboard": "DashBoard",
+            "mn_us": "Manage-users",
+            "mn_qz": "Manage-quizzes",
+            "mn_qs": "Manage-questions"
+        },
+        "DashBoard": {
+            "title": "DashBoard",
+            "content": {
+                "sum_u": "Total user",
+                "sum_qz": "Total Quizzes",
+                "sum_qs": "Total Questions",
+                "sum_as": "Total Answers"
+            }
+        },
+        "manage-user": {
+            "title": "ManageUser",
+            "add": "ADD new users"
+        },
+        "ModalCreateUser": {
+            "add_us": "ADD New User",
+            "pass": "Password",
+            "name": "Username",
+            "role": "Role",
+            "upl_img": "Upload FIle Image",
+            "pre_img": "Preview Image",
+            "btn": {
+                "cl": "Close",
+                "save": "Save Changes"
+            }
+        },
+        "ModalDeleteUser": {
+            "delete": "Delete User",
+            "pass": "Password",
+            "name": "Username",
+            "role": "Role",
+            "upl_img": "Upload FIle Image",
+            "pre_img": "Preview Image",
+            "btn": {
+                "cl": "Close",
+                "delete": "Delete"
+            }
+        },
+        "ModalUpdateUser": {
+            "upd_us": "Update User",
+            "pass": "Password",
+            "name": "Username",
+            "role": "Role",
+            "upl_img": "Upload FIle Image",
+            "pre_img": "Preview Image",
+            "btn": {
+                "cl": "Close",
+                "save": "Save Changes"
+            }
+        },
+        "TableUserPaginate": {
+            "no": "No",
+            "name": "Username",
+            "role": "Role",
+            "action": "Action",
+            "btn": {
+                "upd": "Update",
+                "delete": "Delete"
+            },
+            "notfound": "Not found data"
+        }
+    },
+    "user": {
+        "DetailQuiz": {
+            "header": {
+                "home": "Home",
+                "user": "Users",
+                "quiz": "Quiz"
+            },
+            "title": "Quiz",
+            "footer": {
+                "pre": "Previous",
+                "nxt": "Next",
+                "fn": "Finish"
+            }
+        },
+        "ListQuiz": {
+            "quiz": "Quiz",
+            "start": "Start Now",
+            "text": "You don't have any quiz now"
+        },
+        "ModalResult": {
+            "title": "Your Result",
+            "sum_qs": "Total Question",
+            "sum_as": "Total correct answers",
+            "result": "Show result",
+            "cl": "Close"
+        }
+    },
+    "profile": {
+        "title": {
+            "main": "Profile",
+            "infor": "Main-Infor",
+            "password": "Password",
+            "history": "History"
+        },
+        "Information": {
+            "username": "User Name",
+            "role": "Role",
+            "upl_img": "Upload FIle Image",
+            "pre_img": "Preview Image",
+            "update_btn": "Update"
+        },
+        "ChangePassWord": {
+            "current_pass": "Current password",
+            "new_pass": "New Password",
+            "cf_pass": "Confirm password",
+            "update_btn": "Update"
+        },
+        "History": {
+            "quiz_name": "Quiz Name",
+            "sum_qs": "Total Question",
+            "sum_correct": "Total Correct",
+            "date": "Date",
+            "error": "Not found History"
+        }
+    }
+}
