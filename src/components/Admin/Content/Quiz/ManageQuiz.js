@@ -118,7 +118,7 @@ const ManageQuiz = (props) => {
 
                     </div>
                     <div className="list-detail">
-                        <TableQuiz />
+                        <TableQuiz reload={reloadQuiz} />
                     </div>
                 </Tab>
                 <Tab className="p-3 pt-0" eventKey="upd_qa" title={t('quiz.ManageQuiz.upd_qa')}>
