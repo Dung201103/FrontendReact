@@ -30,7 +30,7 @@
     "react-select": "^5.4.0",
     "react-toastify": "^11.0.5",
     "recharts": "2.1.13",
-    "redux": "^4.2.1",
+    "redux": "^5.0.1",
     "redux-devtools-extension": "^2.13.9",
     "redux-persist": "6.0.0",
     "redux-thunk": "^2.4.2",
@@ -66,7 +66,7 @@
     "node": "18.x",
     "npm": "9.x"
   },
-   "resolutions": {
+  "resolutions": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
@@ -76,5 +76,4 @@
       "react-dom": "^18.3.1"
     }
   }
-
 }
