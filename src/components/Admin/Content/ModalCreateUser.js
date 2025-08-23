@@ -28,7 +28,7 @@ const ModalCreateUser = (props) => {
     const [Email, setEmail] = useState("");
     const [Password, setPassword] = useState("");
     const [Username, setUsername] = useState("");
-    const [Role, setRole] = useState("User");
+    const [Role, setRole] = useState("USER");
     const [Image, setImage] = useState("");
     const [previewImage, setPreviewImage] = useState("");
     const handleUploadImage = (event) => {
