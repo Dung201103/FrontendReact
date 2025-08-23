@@ -2,7 +2,7 @@ import axios from "axios";
 import NProgress from "nprogress";
 import { store } from "../redux/store";
 const instance = axios.create({
-  baseURL: process.env.REACT_APP_BACKEND_URL,
+  baseURL: 'https://backendnode-0ake.onrender.com/',
 //'http://localhost:8081/',
 
 });
