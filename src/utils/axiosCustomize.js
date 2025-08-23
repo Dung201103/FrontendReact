@@ -2,7 +2,8 @@ import axios from "axios";
 import NProgress from "nprogress";
 import { store } from "../redux/store";
 const instance = axios.create({
-  baseURL: 'http://localhost:8081/',
+  baseURL: process.env.REACT_APP_BACKEND_URL,
+//'http://localhost:8081/',
 
 });
 NProgress.configure({
