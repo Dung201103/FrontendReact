@@ -11,9 +11,10 @@ const TableQuiz = (props) => {
     const { t } = useTranslation();
     const [dataUpdate, setDataUpdate] = useState({});
     const [dataDelete, setDataDelete] = useState({});
+    const { reload } = props;
     useEffect(() => {
         fetchListQuiz();
-    }, [])
+    }, [reload])
     const fetchListQuiz = async () => {
         let res = await getAllQuizForAdmin();
         if (res && res.EC === 0) {
