@@ -27,7 +27,7 @@ const ModalDeleteUser = (props) => {
     const [Email, setEmail] = useState("");
     const [Password, setPassword] = useState("");
     const [Username, setUsername] = useState("");
-    const [Role, setRole] = useState("User");
+    const [Role, setRole] = useState("");
     const [Image, setImage] = useState("");
     const [previewImage, setPreviewImage] = useState("");
     useEffect(() => {
