@@ -30,21 +30,11 @@ const SideBar = ({ image, collapsed, toggled, handleToggleSidebar }) => {
                 onToggle={handleToggleSidebar}
             >
                 <SidebarHeader>
-                    <div
-                        style={{
-                            padding: '24px',
-                            textTransform: 'uppercase',
-                            fontWeight: 'bold',
-                            fontSize: 14,
-                            letterSpacing: '1px',
-                            overflow: 'hidden',
-                            textOverflow: 'ellipsis',
-                            whiteSpace: 'nowrap',
-                        }}
-                    >
-                        <DiReact size={'3em'} color={"00bfff"} />
-                        <span onClick={() => navigate('/')}>Dra</span>
-
+                   <div className="sidebar-header">
+                        <div className="sidebar-logo" onClick={() => navigate('/')}>
+                            <DiReact size={'3em'} color={"00bfff"} />
+                            {!collapsed && <span>DRA</span>}
+                        </div>
                     </div>
                 </SidebarHeader>
 
