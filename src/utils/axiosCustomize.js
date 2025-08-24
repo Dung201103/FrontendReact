@@ -2,8 +2,9 @@ import axios from "axios";
 import NProgress from "nprogress";
 import { store } from "../redux/store";
 const instance = axios.create({
-  baseURL: 'https://backendnode-0ake.onrender.com/',
-//'http://localhost:8081/',
+  baseURL: 'https://backendnode-production-7d67.up.railway.app/',
+  // 'https://backendnode-0ake.onrender.com/',
+  // 'http://localhost:8081/',
 
 });
 NProgress.configure({
