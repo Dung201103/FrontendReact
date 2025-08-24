@@ -112,4 +112,12 @@ video {
   position: fixed;
   bottom: 0;
   width: 100vw;
+  height: 100vh;
+  /* phủ toàn màn hình */
+  object-fit: cover;
+  /* giữ tỷ lệ, fill màn hình */
+  object-position: center 70%;
+  /* 70% xuống dưới (bạn chỉnh số này cho hợp) */
+  z-index: -1;
+  /* cho video xuống dưới để không che nội dung */
 }
